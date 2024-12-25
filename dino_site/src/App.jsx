@@ -7,7 +7,7 @@ import Main from './pages/MainPage/Main.jsx'; // Импортируйте ваш
 function App() {
     return (
         <ThemeProvider>
-            <Router>
+            <Router basename="/dino">
                 <Routes>
                     <Route path="/" element={<Entry />} />
                     <Route path="/main" element={<Main />} /> {/* Добавьте маршрут для главной страницы */}

@@ -14,7 +14,7 @@
 7. **Создание простого интернет-магазина** (несколько категорий и по 5 товаров) на WordPress + WooCommerce (локальный сервер).
 8. **Перенос п.7 на облачный хостинг.** - http://dino.01sh.ru/shop/ (db: /previous/f1068383_app_wordpress_0.sql) (wordpress: https://disk.yandex.ru/d/VzDGfQ8tLtxp8g)
 9. **Создание простого интернет-магазина** (несколько категорий и по 5 товаров) на OpenCart (локальный сервер).
-10. **Перенос п.9 на облачный хостинг.** (http://f1067877.xsph.ru/) (db: /previous/f1067877_opencart.sql) (wordpress: https://disk.yandex.ru/d/VzDGfQ8tLtxp8g)
+10. **Перенос п.9 на облачный хостинг.** (http://f1067877.xsph.ru/) (db: /previous/f1067877_opencart.sql) (opencart: /previous/OpenCart.zip)
 
 ## Неделя 3-4
 
